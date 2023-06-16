@@ -1,0 +1,16 @@
+# Python generic ignores
+*__pycache__/
+*.pyc
+
+# VS-code related ignores
+.vscode/
+*.code-workspace
+.markdownlint.*
+
+# Django DB
+*.log
+local_settings.py
+db.sqlite3
+
+# Folder for random expermintal files / temp dev gubbins
+zzTestsBackupsEtc/

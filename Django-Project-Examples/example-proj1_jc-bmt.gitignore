@@ -1,0 +1,14 @@
+__pycache__/
+staticfiles
+*.csv
+.env
+.coverage
+.vscode/
+.venv/
+cover/
+.*_cache/
+htmlcov/
+
+# Test reports
+/*.xml
+test.png

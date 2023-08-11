@@ -1,0 +1,8 @@
+.env
+*_cache
+.venv
+htmlcov
+.idea
+.vscode
+.gitlab-ci.yml
+*.xml

@@ -1,0 +1,3 @@
+{
+    "python.defaultInterpreterPath": "~/path/to/default/django-dev-env/python.exe"
+}

@@ -1,0 +1,5 @@
+{
+    // Need to ensure a light background when using VS-Code DrawIO
+    // plugin, as otherwise diagrams become unreadable
+    "workbench.colorTheme": "Default Light Modern",
+}

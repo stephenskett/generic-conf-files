@@ -1,0 +1,13 @@
+# Override any EOL-settings from global config - unset text attribute
+# on all files so that EOLs are ignored
+* -text
+
+*.xla diff=xl
+*.xlam diff=xl
+*.xls diff=xl
+*.xlsb diff=xl
+*.xlsm diff=xl
+*.xlsx diff=xl
+*.xlt diff=xl
+*.xltm diff=xl
+*.xltx diff=xl

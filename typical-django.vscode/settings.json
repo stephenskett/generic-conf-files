@@ -1,0 +1,13 @@
+{
+    //"python.defaultInterpreterPath": "Machine-dependent - needs to be config'd locally",
+    "editor.tabSize": 2,
+    "[python]": {
+        "editor.tabSize": 4
+    },
+    "indentRainbow.ignoreErrorLanguages" : [
+        "markdown",
+        "python",
+        "css",
+        "html"
+    ]
+}

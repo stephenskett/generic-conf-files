@@ -5,12 +5,19 @@
             "name": "Python: Django",
             "type": "python",
             "request": "launch",
+            "python": "${command:python.interpreterPath}",
             "program": "${workspaceFolder}\\manage.py",
             "args": [
-                "runserver", "9001"
+                "runserver", "--noreload", "9000"
             ],
             "django": true,
-            "justMyCode": true
+            "justMyCode": false
         }
+    ],
+    "debugOptions": [
+        "WaitOnAbnormalExit",
+        "WaitOnNormalExit",
+        "RedirectOutput",
+        "DjangoDebugging"
     ]
 }

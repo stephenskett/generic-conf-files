@@ -3,6 +3,3 @@
 *.bak
 *.dll
 *.exe
-
-# VS-code related ignores
-.vscode/

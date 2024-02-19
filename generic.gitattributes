@@ -1,2 +1,7 @@
 # Set default behaviour as per {core.autocrlf} git config, in case not set natively
 * text=auto
+
+# Standard binary file-type exclusions
+*.png binary
+*.jpg binary
+*.ico binary

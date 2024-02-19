@@ -1,9 +1,3 @@
-# Random generic ignores - Windows
-*.lnk
-*.bak
-*.dll
-*.exe
-
 # VS-code related ignores
 .vscode/
 *.code-workspace

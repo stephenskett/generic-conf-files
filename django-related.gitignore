@@ -1,0 +1,13 @@
+# Python generic ignores
+*__pycache__/
+*.py[cod]
+*$py.class
+
+# MyPy
+.mypy_cache/
+
+# Django DB
+*.log
+local_settings.py
+*.sqlite3
+*.sqlite3-journal

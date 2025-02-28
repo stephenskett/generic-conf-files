@@ -6,6 +6,15 @@
 # MyPy
 .mypy_cache/
 
+# PyTest/Coverage
+.pytest_cache/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+htmlcov/
+cover/
+
 # Django DB
 *.log
 local_settings.py
